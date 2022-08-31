@@ -3,3 +3,5 @@ My second project for The odin project. This is a landing page with some interes
 ## Links
 [Site page](https://greatest-frog.github.io/odin-landing-page/)  
 [Project task](https://www.theodinproject.com/lessons/foundations-landing-page)
+### Photos by
+[Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann)
